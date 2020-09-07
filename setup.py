@@ -11,11 +11,8 @@ setup(
     description="lib for Imgbb",
     author="dark0ghost",
     url='https://github.com/dark0ghost/api_imgbb_aio_python',
-    packages=[
-        'apiimgbb',
-    ],
     package_dir={
-        'apiimgbb': 'apiimgbb'
+       'apiimgbb': 'apiimgbb'
     },
     include_package_data=True,
     install_requires=requirements,

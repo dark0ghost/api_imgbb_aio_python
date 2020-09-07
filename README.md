@@ -56,3 +56,8 @@ async def main():
 |Python|3.7+|
 |aiofiles|0.5.0|
 |aiohttp|3.6.2|
+
+# how install
+```bash
+pip install apiimgbb
+```
