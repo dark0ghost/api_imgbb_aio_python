@@ -11,9 +11,6 @@ setup(
     description="lib for Imgbb",
     author="dark0ghost",
     url='https://github.com/dark0ghost/api_imgbb_aio_python',
-    package_dir={
-       'apiimgbb': 'apiimgbb'
-    },
     include_package_data=True,
     install_requires=requirements,
     license="MIT License",
